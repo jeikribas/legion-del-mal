@@ -11,6 +11,6 @@ Básicamente aprenderemos más sobre Git y GitHub con este proyecto
 
 ## Prueba de curso Fernando udemy
 
-aqui algo de github
+aqui algo de VSCode
 
 ### Esto tengo verlo en VSCode
